@@ -7,4 +7,5 @@ Groups listed here:
 * [HRNUG](https://github.com/RevolutionConf/757UserGroupLogos/tree/master/HRNUG)
 * [HRPHP](https://github.com/RevolutionConf/757UserGroupLogos/tree/master/HRPHP)
 * [NorfolkJS](https://github.com/RevolutionConf/757UserGroupLogos/tree/master/NorfolkJS)
+  *   Pop Up Robots
 * [UXPA](https://github.com/RevolutionConf/757UserGroupLogos/tree/master/UXPA) 
